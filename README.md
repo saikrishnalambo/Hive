@@ -1,2 +1,0 @@
-# HiveAssignment1
-HiveAssignment
